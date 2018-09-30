@@ -64,7 +64,7 @@ Deliverables from Candidate
 and all your assumptions. It should also describe the features of the project and
 also any extra features that you have coded to get extra marks for intuitive
 thinking.
-2) Github repository link of this project should be mentioned in the TXT file.
+2) Github repository link of this project should be mentioned in a TXT file.
 3) You have to host the built version of the application on AWS and mention the
 URL of that application in the TXT file.
 In case of queries, reach out to us at support@edwisor.com
